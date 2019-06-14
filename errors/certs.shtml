@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Certificates Required</title>
+</head>
+<body>
+You must access this document via HTTPS.  
+If you have MIT Certificates, click 
+<a href="https://<!--#echo var="HTTP_HOST"--><!--#echo var="REQUEST_URI"-->">here</a> to continue to your document.
+</body>
+</html>
