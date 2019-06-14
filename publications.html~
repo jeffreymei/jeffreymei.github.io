@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Accumen
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20120712
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title>Jeffrey Mei</title>
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div id="menu">
+					<ul>
+						<li class="first"><a href="index.html">Home</a></li>
+						<li><a href="about.html">Bio</a></li>
+						<li><a href="research.html">Research Interests</a></li>
+						<li class="active"><a href="publications.html">Publications+Projects</a></li>
+						<li class="last"><a href="contact.html">Contact</a></li>
+					</ul>
+					<br class="clearfix" />
+				</div>
+			</div>
+			<div id="page">
+					<div class="box">
+						<h2>Papers</h2>
+						<p>
+                            Mei, M. Jeffrey, David M. Holland, Sridhar Anandakrishnan, Tiantian Zheng. "A Two-Station Seismic Method to Localize Glacier Calving." <i>The Cryosphere Discuss., </i>doi:10.5194/tc-2016-85, in review, 2016.<br />
+						</p>
+					</div>
+                    <div class="box">
+						<h2>Selected Conference Publications</h2>
+						<p>
+						Mei, M. Jeffrey, Tiantian Zheng, David M. Holland. "A Novel Seismic Method for Glacial Calving Localization." <i>American Geophysical Union Fall Meeting 2015</i>. 2015. <a href="https://agu.confex.com/agu/fm15/preliminaryview.cgi/Paper79754.html">[link]</a><br />
+						Mei, M.Y. Jeffrey, I. Zaw, and L. J. Greenhill. "Correlations of Circumnuclear Water Maser Luminosity with AGN Activity and SMBH Mass." <i>American Astronomical Society Meeting Abstracts #223</i>. Vol. 223. 2014. <a href="http://adsabs.harvard.edu/abs/2014AAS...22325106M">[link]</a><br />
+						
+					</div>
+					<div class="box">
+						<h2>Other Projects</h2>
+						<p>
+							<a href="http://www.higgshunters.org/">HiggsHunters</a>, a <a href="https://www.zooniverse.org/">Zooniverse</a> citizen science project developed by the University of Oxford and New York University to analyze particle physics data from the ATLAS experiment at the Large Hadron Collider at CERN. Coverage of the launch in November 2014 in <a href="http://www.wired.com/2014/12/higgs-hunters-new-physics-citizen-science/">WIRED</a> and <a href="http://indico.cern.ch/event/341862/contribution/7/attachments/671735/#preview:923190">CERN</a>.
+						</p>
+					</div>
+				<br class="clearfix" />
+			</div>
+	</body>
+</html>
